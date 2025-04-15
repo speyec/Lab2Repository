@@ -3,6 +3,8 @@ import java.math.RoundingMode;
 
 public class CurrencyConverter {
 
+	public static final int DECIMAL_DIGITS = 2;
+
 	public static void main(String[] args) {
         System.out.println("Hello CC");
     }
